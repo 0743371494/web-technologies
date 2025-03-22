@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUNRISE CAFE</title>
+</head>
+<link rel="stylesheet" href="style/style.css">
+<body>
+
+    <header>
+        <h1>SUNRISE CAFE</h1>
+        
+    
+    <p>Welcome to Sunrise cafe, a delightful restaurant located in the heart of the city. With its cozy ambiance and rich culinary history, SUNRISE CAFE a unique dining experience that combines traditional recipes with modern flavors.</p>
+    <img src="image/gettyimages-1829241109-612x612.jpg" alt="SURISE CAFE">
+    </header>
+
+    <section>
+        <h2>Our Menu</h2>
+        <table border="1">
+            <tr>
+                <th>Category</th>
+                <th>Item</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td>Breakfast</td>
+                <td>Pancakes</td>
+                <td>$5.99</td>
+            </tr>
+            <tr>
+                <td>Lunch</td>
+                <td>Grilled Chicken </td>
+                <td>$8.99</td>
+            </tr>
+            <tr>
+                <td>Drinks</td>
+                <td>Fresh Lemonade</td>
+                <td>$2.99</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>You can find us at KUTUS MJINI</p>
+        <p>Find us on <a href="https://www.google.com/maps/place/Westlands/@-1.2459945,36.6195673,11z/data=!4m6!3m5!1s0x182f1780db41527b:0x9aa9b3598efd1599!8m2!3d-1.2568234!4d36.7927221!16s%2Fg%2F11fl18nrzx?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D" target="_blank">Google Maps</a>.</p>
+        <p>Address: 123 MJINI, Soko , MJINI, <br>
+            Phone:  +254717324697<br>
+            Email: contact@sunrisecafe.com</p>
+       
+    </section>
+   <P> <a href="#">TO TOP</a></P>
+
+</body>
+</html>
+
+
