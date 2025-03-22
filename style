@@ -1,0 +1,50 @@
+html{
+    margin: 0;
+    color:white;
+    margin: 0;
+    font-size: medium;
+    background-image: linear-gradient(to right,rgb(52, 110, 94) 10%,transparent 100%);
+    white-space: wrap;
+}
+h1{
+    color: blue;
+
+   font-size: 34PX;
+    height: 8vh;
+    align-content: center;
+    text-align: center;
+    
+}
+h2{
+    color: blue;
+    font-size: 25px;
+}
+p{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
+section{
+    color: black;
+    text-align: center;
+
+}
+th{
+    font-size: 30px;
+}
+td{
+    color:black;
+    font-size: 20px;
+}
+table{
+    margin-left: 28%;
+    width: 45rem;
+    border-color:BLUE;
+}
+img{
+    width: 63rem;
+    height: 72vh;
+    margin-left: 350px;
+    border-radius: 50%;
+}
